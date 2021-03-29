@@ -11,10 +11,10 @@ export class QuoteComponent implements OnInit {
     public  maxUpvote;
 
   quotes:Quotes[] = [
-    new Quotes('The greatest glory in living lies not in never falling, but in rising every time we fall.','Nelson Mandela', 'Kelvin',new Date(2021,1,3),0,0),
-    new Quotes('The way to get started is to quit talking and begin doing.','Walt Disney', 'Mercy',new Date(2021,1,24),0,0),
-    new Quotes('Don\'t judge each day by the harvest you reap but by the seeds that you plant.','Robert Louis Stevenson', 'Mike Mwangi',new Date(2020,11,31),0,0),
-    new Quotes('Whoever is happy will make others happy too.','Anne Frank', 'Joel',new Date(2021,1,9),0,0),
+    new Quotes("Five card stud, nothing wild. And the sky's the limit" ,'Captain Jean Luc Picard', 'Dave',new Date(2021,3,29),0,0),
+    new Quotes("If I'm not back in five minutes, just wait longer.",'Ace Ventura', 'Brenda',new Date(2021,3,30),0,0),
+    new Quotes("Bill, strange things are afoot at the Circle K.",'Bill & Ted', 'Ethan',new Date(2020,3,29),0,0),
+    new Quotes("Never argue with the data." ,'Sheen', 'Joel',new Date(2021,3,28),0,0),
   ];
   
   addNewQuote(quote)
