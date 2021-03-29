@@ -1,3 +1,11 @@
+#   Project name
+
+Quotes
+
+# Project description
+
+This is a web app where you can see quotes from other people and you can also create yours.You also have the ability to upvote or downvote a quote.
+
 # Quotes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.1.
@@ -9,6 +17,14 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+# Technologies
+
+- HTML/CSS
+- Typescript
+- Angular
+- Bootstrap
+
 
 ## Build
 
@@ -25,3 +41,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+# Licence 
+
+    [http://www.apache.org/licenses/]
