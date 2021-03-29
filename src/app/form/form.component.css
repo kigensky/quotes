@@ -1,0 +1,8 @@
+.formContainer
+{
+        background-color:#FE9684;
+        background: linear-gradient(to bottom, #FE9684 0%, #ff99cc 100%);
+        margin-top: 20px;
+        border-radius: 10px;
+        padding: 10px;
+    }

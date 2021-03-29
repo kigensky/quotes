@@ -1,0 +1,35 @@
+.quoteList
+{
+ background-color: #FE9684;
+ padding: 10px;
+ margin-top: 20px;
+ border-radius: 10px;
+}
+
+.quoteSection
+{
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 5px;;
+}
+
+
+.fa-caret-up 
+{
+    font-size: 50px;
+}
+.fa-caret-up 
+{
+    cursor: pointer;
+}
+
+.fa-caret-down
+{
+    font-size: 50px;
+}
+
+.fa-caret-down:hover
+{
+    cursor: pointer;
+}

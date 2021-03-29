@@ -1,0 +1,9 @@
+.deleteBtn
+{
+   text-align: right;
+}
+.deleteBtn:hover
+{
+    cursor: pointer;
+}
+
