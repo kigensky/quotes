@@ -10,4 +10,4 @@ export class HighlightQuoteDirective {
     this.elem.nativeElement.style.backgroundColor='skyBlue';
   }
 
-}
+};
